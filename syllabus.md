@@ -25,7 +25,7 @@ title: Syllabus
 **Email:** <jmoscola@ycp.edu><br>
 **Office:** KEC 108<br>
 **Phone:** (717) 815-1276<br>
-**Office Hours:** Tu Th: 11:00 AM - 12:30 PM 
+**Office Hours:** Tu Th: 11:00 AM - 12:30 PM<br>
 		          M F: 12:00 PM - 1:00 PM;
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
