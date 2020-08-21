@@ -6,7 +6,7 @@ title: Resources
 
 This page contains links to useful resources.
 
- - [IntelliJ Free Student License](https://www.jetbrains.com/student/)
+ - [IntelliJ Free Student License](https://www.jetbrains.com/shop/eform/students)
 
  - Online Course Textbook: [Open Data Structures](http://opendatastructures.org)
  
@@ -25,7 +25,7 @@ This page contains links to useful resources.
  
  - [VMWare Player (free)](https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1556&productId=800&rPId=47861)
  
- - [CentOS 7 (1810)](http://mirror.cs.pitt.edu/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-2003.iso) (4.5 GB download)
+ - [CentOS 7 (2003)](http://mirror.cs.pitt.edu/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-2003.iso) (4.5 GB download)
   <br>A complete guide for installing CentOS7 and CLion can be found [here](centOS7_install.html)
   <br><br>Here is the **short version**:
   <br>Install CentOS.
