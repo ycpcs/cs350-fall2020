@@ -89,7 +89,8 @@ var courseInfo = {
 //             topic: new Topic( "Review for Exam #2", "" )
 //         },
         {
-            topic: new Topic( "** Exam #2", "" )
+            topic: new Topic( "** Exam #2", "" ),
+            handout: new Handout("Handout: Tree Template Worksheet", "resources/tree_template_worksheet.pdf")
         },
         {
             topic: new Topic( "AA-Trees (Insert)", "lectures/AA-tree_lecture.pdf" ),
@@ -108,7 +109,8 @@ var courseInfo = {
 //             topic: new Topic( "Review for Exam #3", "" )
 //         },
         {
-            topic: new Topic( "** Exam #3", "" )
+            topic: new Topic( "** Exam #3", "" ),
+            handout: new Handout("Handout: Tree Template Worksheet", "resources/tree_template_worksheet.pdf")
         },
         {
             topic: new Topic( "Binary Heaps", "lectures/Heaps.pdf" ),
@@ -131,7 +133,8 @@ var courseInfo = {
             handout: new Handout("Handout: Graphs", "activities/14 - Graphs Adjacency Matrix and List.pdf")
         },
         {
-            topic: new Topic( "** Final Exam (non-cumulative)", "" )
+            topic: new Topic( "** Final Exam (non-cumulative)", "" ),
+            handout: new Handout("Handout: Tree Template Worksheet", "resources/tree_template_worksheet.pdf")
         }
     ]
 };
