@@ -108,7 +108,7 @@ var courseInfo = {
 //             topic: new Topic( "Review for Exam #3", "" )
 //         },
         {
-            topic: new DoubleTopic( "** Exam #3", "", "Tree Template Worksheet", "resources/tree_template_worksheet.pdf")
+            topic: new Topic( "** Exam #3", "" )
         },
         {
             topic: new Topic( "Binary Heaps", "lectures/Heaps.pdf" ),
@@ -131,7 +131,7 @@ var courseInfo = {
             handout: new Handout("Handout: Graphs", "activities/14 - Graphs Adjacency Matrix and List.pdf")
         },
         {
-            topic: new DoubleTopic( "** Final Exam (non-cumulative)", "", "Tree Template Worksheet", "resources/tree_template_worksheet.pdf")
+            topic: new Topic( "** Final Exam (non-cumulative)", "")
         }
     ]
 };
