@@ -63,7 +63,7 @@ The class declaration is
 		Node<T> *deletedNode;   // used for delete
 
 		// Utility methods (Private)
-		Node<T> * findNode(const T & x, Node<T> * node);
+		Node<T> * findNode(Node<T> * node, const T & x);
 		Node<T> * findMinNode(Node<T> * node);
 		Node<T> * findMaxNode(Node<T> * node);
 		void insertNode(Node<T> * & node, const T & x);
